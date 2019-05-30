@@ -1,0 +1,8 @@
+{
+  "name": "miAppMusical",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "58b378f2"
+}
